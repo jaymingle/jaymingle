@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on something **exciting🔥🔥🔥**
  
- 💻 Ready to collaborate on Blockchain, React, and Node Projects
+ 💻 Ready to collaborate on Blockchain, React, Python, GO, React Native and Node Projects
  
  🌱 I’m currently learning **Flutter & AI/ML**
 
